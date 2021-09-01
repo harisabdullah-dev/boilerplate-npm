@@ -15,5 +15,8 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "HarisAbdullah",
-	"description": "A project that does something awesome"
+	"description": "A project that does something awesome",
+	"keywords": [
+		"freecodecamp"
+	  ]
 }
