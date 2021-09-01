@@ -19,5 +19,6 @@
 	"keywords": [
 		"freecodecamp"
 	  ],
-	  "license": "MIT"
+	  "license": "MIT",
+	  "version": "3.20.1"
 }
